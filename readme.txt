@@ -1,6 +1,6 @@
 guohongwei is a very very good man
 
-he is a really nice guy!!!!
+hegis a really nice guy!!!!
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
